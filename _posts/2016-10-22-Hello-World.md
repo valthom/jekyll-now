@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey there! First post
+title: Hey there! First post with mathjax support (hopefully)
 ---
 
 This is my first post
