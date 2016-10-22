@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Valentin Thomas
+name: Machine learning and optimization
 
 # Short bio or description (displayed in the header)
-description: Wannabe machine learning PhD student
+description: Here is a blog about optimization and machine learning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
