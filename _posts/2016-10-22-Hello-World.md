@@ -20,22 +20,23 @@ $$a^2 + b^2 = c^2$$
 * Secundo
 	- hey
 
-\begin{equation*}
+\begin{equation}
 	e^{\pi i} + 1 = 0
-\end{equation*}
+\end{equation}
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
+Let's test some inline math $x$, $y$, $x_1$, \\$y_1 \\$.
 
 Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
 
 Test a display math:
 $$
-si_1\rangle = a|0\rangle + b|1\rangle
+\psi_1\rangle = a|0\rangle + b|1\rangle
+$$
 
 it O.K.?
 
 t a display math with equation number:
-gin{equation}
+\begin{equation}
 |\psi_1\rangle = a|0\rangle + b|1\rangle
 \end{equation}
 Is it O.K.?
